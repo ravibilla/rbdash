@@ -1,3 +1,4 @@
+[![Test & Upload to TestPyPI](https://github.com/ravibilla/rbdash/actions/workflows/test-and-upload-to-testpypi.yml/badge.svg?branch=master)](https://github.com/ravibilla/rbdash/actions/workflows/test-and-upload-to-testpypi.yml)
 # Rbdash
 
 A simple and stupid clone of [LoDash](https://npmjs.com/packages/lodash) in python.
