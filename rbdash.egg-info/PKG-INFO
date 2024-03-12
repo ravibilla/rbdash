@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: rbdash
+Version: 1.2.0
+Summary: A small clone of lodash
+Home-page: https://github.com/ravibilla/rbdash
+Author-email: billaravi@gmail.com
+Keywords: lodash,string,manipulation
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3 :: Only
+Description-Content-Type: text/markdown
+
+# Rbdash
+
+A simple and stupid clone of [LoDash](https://npmjs.com/packages/lodash) in python.
+
+This was made for my blog post on [dev.to](https://dev.to/arnu515/create-a-pypi-pip-package-test-it-and-publish-it-using-github-actions-21k3) and is not a serious package, so don't expect updates.
