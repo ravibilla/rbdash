@@ -22,7 +22,7 @@ setup(
 <<<<<<< HEAD
     version="1.5.5",
 =======
-    version="1.5.8",
+    version="1.5.9",
 >>>>>>> 01b4d894a17a6b433c363dad927baeb635757d2c
 
     # The packages that constitute your project.
