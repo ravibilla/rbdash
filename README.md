@@ -1,7 +1,6 @@
-![example workflow]
-https://github.com/ravibilla/rbdash/actions/workflows/test-and-upload-to-testpypi.yml/badge.svg
-
 # Rbdash
+![example workflow]
+(https://github.com/ravibilla/rbdash/actions/workflows/test-and-upload-to-testpypi.yml/badge.svg)
 
 A simple and stupid clone of [LoDash](https://npmjs.com/packages/lodash) in python.
 
