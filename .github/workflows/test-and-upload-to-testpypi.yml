@@ -50,6 +50,9 @@ jobs:
       # Upload to TestPyPI
       - name: Build and Upload to TestPyPI
         run: |
+          # clear eggs from setup.py install
+          rm -rf ./dist
+          
           python3 setup.py sdist bdist_wheel
           python3 -m twine upload -r testpypi dist/*
         env:
